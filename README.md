@@ -19,6 +19,7 @@ A real-time sign language detection application that uses MediaPipe for hand tra
 The application provides a user-friendly interface with:
 - Live camera feed showing hand detection
 - Real-time text output
+- Real-time text to speech
 - Progress bar indicating detection confidence
 - Sentence history display
 - Control buttons for text manipulation
